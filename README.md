@@ -84,7 +84,6 @@ Save actual screenshots in the `screenshots/` folder:
 - `dashboard.png` – employee listing page
 - `create.png` – add employee form
 - `read.png` – records displayed
-- `search.png` – search results
 - `update.png` – edited employee record
 - `delete-confirmation.png` – browser confirmation prompt
 - `delete-result.png` – listing after deletion
